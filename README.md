@@ -2,6 +2,9 @@
 
 Generate and paste a valid CPF with a single keyboard command.
 
+## Download
+[cpf-generator-app.dmg](https://github.com/joilson-cisne/cpf-generator/releases/download/v0.0.1/cpf-generator-app.dmg)
+
 ## Usage
 
 1. Run the app
